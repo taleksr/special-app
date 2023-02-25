@@ -10,6 +10,7 @@ html, body {
 
 h1 {
     font-size: 36px;
+<<<<<<< HEAD
     color: #ffffff;
     margin: 0;
     text-align: center;
@@ -20,6 +21,13 @@ h2 {
     margin: 0;
     text-align: center;
 }
+=======
+    color: #232323;
+    margin: 0;
+    text-align: center;
+}
+
+>>>>>>> new-contacts
 nav {
     height: 36px;
     display: flex;
