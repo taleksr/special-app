@@ -10,11 +10,16 @@ html, body {
 
 h1 {
     font-size: 36px;
-    color: #232323;
+    color: #ffffff;
     margin: 0;
     text-align: center;
 }
-
+h2 {
+    font-size: 36px;
+    color: #0004ff;
+    margin: 0;
+    text-align: center;
+}
 nav {
     height: 36px;
     display: flex;
